@@ -1,0 +1,15 @@
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\bin\Debug\net9.0\NomeDoProjeto.exe
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\bin\Debug\net9.0\NomeDoProjeto.deps.json
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\bin\Debug\net9.0\NomeDoProjeto.runtimeconfig.json
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\bin\Debug\net9.0\NomeDoProjeto.dll
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\bin\Debug\net9.0\NomeDoProjeto.pdb
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.AssemblyInfoInputs.cache
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.AssemblyInfo.cs
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.sourcelink.json
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.dll
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\refint\NomeDoProjeto.dll
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.pdb
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\NomeDoProjeto.genruntimeconfig.cache
+C:\Users\mare.lsantos\source\repos\marehead\Aulas-C-\NomeDoProjeto\obj\Debug\net9.0\ref\NomeDoProjeto.dll
